@@ -4,8 +4,6 @@ let user;
 let textArea = document.querySelector("#textarea");
 let msgeArea = document.querySelector(".message__area");
 
-
-
 do{
     user = prompt("Enter your name:");
 
